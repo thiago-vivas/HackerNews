@@ -5,7 +5,11 @@ I use the standard 3 layered architecture with dependency injection, swagger, as
 
 ## How to run?
 
-Clone the project, build it and push F5. You will be prompted with the swagger API where you can test the request.
+1. Clone the project
+2. Build it
+3. Push F5. 
+
+You will be prompted with the swagger API where you can test the request.
 The Web Api returns 20 best stories by default but you could return any number as you wish. You only need to send the desired number as query string `count`
 
 ## Why I did like this?
