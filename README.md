@@ -25,3 +25,4 @@ This flag was created in order to search for comments inside comments or not. I 
   - Unit Tests in the business logic layer.
   - AutoMapper, for no need to manually map one object to another like in the StoryManager.GetStoryDetail
   - Comments, there are comments only in the interfaces and I like to do small comments through the whole project.
+  - Pagination, for greater responses would be good to paginate but as we return a small data set I decide not to implement it.
