@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/HackerNews/bin/Debug/netcoreapp2.2
+/HackerNews/.vs/HackerNews
+/HackerNews/obj
