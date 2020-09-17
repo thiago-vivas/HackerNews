@@ -15,9 +15,9 @@ The Web Api returns 20 best stories by default but you could return any number a
 ## Why I did like this?
 
 I love simple and clean code, even though we are using more complex solutions it does not mean that the code must be complex.
-To solve the issue to do not overload the Hacker News API I used cache for 60 seconds.
-To communicate between layers I applied dependecy injection.
-To have a faster result I used asynchronous and parallel programming, so it could get the details of each story faster.
+- To solve the issue to do not overload the Hacker News API I used cache for 60 seconds.
+- To communicate between layers I applied dependecy injection.
+- To have a faster result I used asynchronous and parallel programming, so it could get the details of each story faster.
 
 ### The `countCommentsInsideComments` flag
 
